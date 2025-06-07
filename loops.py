@@ -24,7 +24,7 @@ if(num % 8 == 0 and num % 11 == 0):
 else:
     print("The is not divisible by both 8 and 11")
 
-#write a program to create a billing system at a super market
+
 
 
 
